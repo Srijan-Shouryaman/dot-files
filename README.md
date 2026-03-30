@@ -1,5 +1,5 @@
 # 📘 README.md
-##🛠️ Dotfiles
+## 🛠️ Dotfiles
 
 Personal configuration files for my Linux setup.  
 This repository contains my customized environment configs to improve productivity, aesthetics, and workflow.
